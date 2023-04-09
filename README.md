@@ -11,5 +11,7 @@ Amazon is one of the largest online competitive marketplaces in the world. Compa
 For example, once your company has set the prices of products on an ecommerce platform, web scraping can be used to collect information about demand and website traffic so that the prices can be reviewed from time to time. When the pricing strategy is data-backed and well monitored, the company can easily make profits over a long period.
 
 In our project, We’ll be using Python and the BeautifulSoup library.
+
 Don't forget to install bs4 and requests.
+
 All the Best.
