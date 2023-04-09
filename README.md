@@ -7,6 +7,7 @@ Web scraping is a technique used to extract data from websites through an automa
 Here, Avoiding detection is crucial for successful data extraction. This is where user agents come in handy. A user agent is a string of text identifying the browser or device you use to access a website.
 
 Amazon is one of the largest online competitive marketplaces in the world. Companies scrap the product data for their products and competing products in analyzing consumer trends, their needs and how a product performs in the market. So that they can create new and improved marketing strategies like fixing the optimal pricing and quality for their products that suit the market expectations which can be helpful to obtain maximum revenue and dominate over other competitive companies product.
+
 For example, once your company has set the prices of products on an ecommerce platform, web scraping can be used to collect information about demand and website traffic so that the prices can be reviewed from time to time. When the pricing strategy is data-backed and well monitored, the company can easily make profits over a long period.
 
 In our project, We’ll be using Python and the BeautifulSoup library.
